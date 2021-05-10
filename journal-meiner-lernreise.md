@@ -9,6 +9,14 @@ tags: ljdg, DigitalGardening
 
 # Journal meiner Lernreise
 
+## Montag, 10. Mai 2021 - Tag 6
+
+Inzwischen ist mir klar, dass ich einen dauerhaften Digital Garden für mich anlegen möchte. Daher werde ich mich diese Woche auf Experimente konzentrieren, dir mir helfen, mein Projekt technisch zu realisieren.
+
+Meine Vision ist, meine Notizen lokal an einer Stelle zu speichern und zu bearbeiten und von dort aus automatisiert in Echtzeit zu veröffentlichen.
+
+Heute habe ich deshalb begonnen, meine HackMD-Dateien mit einem Github-Repository zu synchronisieren. Ich möche herausfinden, wie das funktioniert und inwieweit Automatisierung möglich ist.
+
 ## Freitag, 7. Mai 2021 - Tag 5
 
 Heute habe ich einen Blogartikel von Nele Hirsch gelesen und in eine Notiz überführt: [Digitales Gärtnern in der Bildung](/wr_wBQ8gR02PZZiMtJSGkQ)
