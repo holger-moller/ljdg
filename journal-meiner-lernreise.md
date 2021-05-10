@@ -5,7 +5,7 @@ tags: ljdg, DigitalGardening
 [Startseite: Digital Garden Learning Journey Digital Gardening](https://hackmd.io/@holger-moller/learning-journey-digital-gardening-toc/)
 
 04.05.2021 gepflanzt
-07.05.2021 zuletzt gepflegt
+10.05.2021 zuletzt gepflegt
 
 # Journal meiner Lernreise
 
