@@ -5,9 +5,15 @@ tags: ljdg, DigitalGardening
 [Startseite: Digital Garden Learning Journey Digital Gardening](https://hackmd.io/@holger-moller/learning-journey-digital-gardening-toc/)
 
 04.05.2021 gepflanzt
-10.05.2021 zuletzt gepflegt
+11.05.2021 zuletzt gepflegt
 
 # Journal meiner Lernreise
+
+## Dienstag, 11. Mai 2021 - Tag 7
+
+Da ich ab morgen am [Leadership³ WIRtuell-Festival](https://www.leadershiphoch3.de/angebote/festival/) teilnehme, habe ich momentan wenig Zeit für die Learning Journey und werde in den nächsten Tagen nur dieses Journal updaten.
+
+Zur Zeit versuche ich Git und Github für meine Zwecke besser zu verstehen und zu nutzen. Heute habe ich mich mit diesem [Git-Guide](https://rogerdudler.github.io/git-guide/index.de.html) wohl etwas verirrt.
 
 ## Montag, 10. Mai 2021 - Tag 6
 
