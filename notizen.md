@@ -16,6 +16,7 @@ tags: ljdg, DigitalGardening
 
 ## To-Do-Liste
 
+- [ ] Vision formulieren, wie ich meinen Digital Garden technisch umsetzen möchte
 - [ ] [Digital Gardening mit ObsidianMD und Gatsby](/URlKk-6YTkSuDUjW9oGN4A)
 - [ ] [The only way to learn in public is to build in public](https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public)
 - [x] [Roam Highlighter](https://roam-highlighter.danielwirtz.com/): [installieren](https://chrome.google.com/webstore/detail/roam-highlighter/hponfflfgcjikmehlcdcnpapicnljkkc/related?hl=en) und [testen](https://roam-highlighter.danielwirtz.com/install/)
